@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alex-McAvoy&show_icons=true&theme=dark&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alex-McAvoy&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 ### Languages & Tools: 👋
 C++、Python、Java

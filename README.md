@@ -8,7 +8,7 @@ A developer form Chian.
     :orange_book: I’m currently learning Data Analyse, Python .etc
   </li>
   <li style="white-space:nowrap;">
-    💬 How to contact with: <a href="mailto:yaowei.duan@foxmail.com">Please contact me with issues</a>
+    💬 How to contact with: Please contact me with issues
   </li>
   <li style="white-space:nowrap;">
     🌱 My homepage: https://alex-mcavoy.github.io/ and https://blog.csdn.net/u011815404

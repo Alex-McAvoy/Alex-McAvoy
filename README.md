@@ -1,6 +1,6 @@
 ### Hi, I'm Alex McAvoy 👋
 
-![](https://komarev.com/ghpvc/?username= Alex-McAvoy)
+![](https://komarev.com/ghpvc/?username=Alex-McAvoy)
 
 A developer form Chian.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alex-McAvoy&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />

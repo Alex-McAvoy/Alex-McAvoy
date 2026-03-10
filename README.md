@@ -4,6 +4,9 @@
 
 A developer form Chian.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alex-McAvoy&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <ul style="margin: 2em 0 0; padding: 0.5em 1em; border-left: 3px solid #99FF99; background-color: #f9f9f9;">
   <li style="white-space:nowrap;">

@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Alex-McAvoy)
 
-![Top Languages](./profile/top-langs.svg)
-
 <img align="right" src="./profile/stats.svg" />
+<img align="right" src="./profile/top-langs.svg" />
 
 A developer form Chian.
 
